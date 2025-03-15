@@ -1,0 +1,3 @@
+El sistema cambió para siempre. Con Git, los developers ya no temían perder su trabajo.
+Las leyendas contaban que, en otro tiempo, el código estaba a la deriva, pero ahora cada línea tenía un hogar seguro.
+El caos quedó en el pasado, y un nuevo orden había comenzado.
